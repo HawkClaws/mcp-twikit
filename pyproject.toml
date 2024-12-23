@@ -16,6 +16,7 @@ dependencies = [
     "fastmcp",
     "twikit",
     "requests",
+    "uvicorn",
 ]
 
 [project.urls]
